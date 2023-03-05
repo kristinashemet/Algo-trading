@@ -1,4 +1,3 @@
 Author: Kristina Shemet
 
-Description: Algo trading codes# Algo-trading
-# Algo-trading
+Description: Algo trading codes
